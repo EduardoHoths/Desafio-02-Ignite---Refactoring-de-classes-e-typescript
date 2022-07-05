@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/94751445/177393812-c3696dc9-1ad0-4a54-817b-67c8e4876f05.png)
+
+
 # Desafio 02 - Refactoring de classes e typescript
 
 ## 💻 Sobre o desafio
@@ -15,7 +18,7 @@ Essa será uma aplicação já funcional onde o principal objetivo é realiza
 
 Para visualizar a aplicação completa, siga os seguintes passos:
 
-1 - Realize um clone deste repositório: ``git clone git@github.com:EduardoHoths/Desafio-02-Ignite-Refactoring-de-classes-e-typescript.git``
-2 - Execute o comando ``npm install`` para instalar todas as dependências
-3 - Execute o comando ``npm run server`` para iniciar o Json Server
-4 - Execute o comando `` npm start`` para iniciar a aplicação 
+- Realize um clone deste repositório: ``git clone git@github.com:EduardoHoths/Desafio-02-Ignite-Refactoring-de-classes-e-typescript.git``
+- Execute o comando ``npm install`` para instalar todas as dependências
+- Execute o comando ``npm run server`` para iniciar o Json Server
+- Execute o comando `` npm start`` para iniciar a aplicação 
